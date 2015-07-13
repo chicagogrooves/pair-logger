@@ -9,9 +9,8 @@ insecure
 iron:router
 
 accounts-base
-accounts-password
 accounts-ui
-accounts-google
+accounts-github
 
 rzymek:fullcalendar
 twbs:bootstrap

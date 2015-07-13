@@ -4,7 +4,8 @@ if (Meteor.isServer) {
       fields: {
         'profile.name': 1,
         'emails': 1,
-        'services.google.email': 1
+        'services.github.email': 1,
+        'services.github.username': 1
       }});
   });
 }
