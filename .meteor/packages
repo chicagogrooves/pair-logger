@@ -11,8 +11,11 @@ iron:router
 accounts-base
 accounts-password
 accounts-ui
+accounts-google
 
 rzymek:fullcalendar
 twbs:bootstrap
+dburles:collection-helpers
 deanius:package-kitchen
+deanius:debug-ddp
 schedule-the-things:data

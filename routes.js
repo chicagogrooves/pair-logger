@@ -8,3 +8,7 @@ Router.route("calendar", {
     return [];
   }
 });
+
+Router.route("newEvent", {
+  path: "/new"
+});
